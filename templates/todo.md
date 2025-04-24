@@ -72,8 +72,8 @@
 5. Security fundamentals
 
 ## Notes
-- All new features should follow TDD approach outlined in architecture.md
-- Each component requires full test coverage before moving to production
+- All new features should follow the DTI (Define-Test-Implement) methodology outlined in methodology.md
+- Each component requires full test coverage (written during the Test phase)
 - Documentation should be updated alongside code changes
 - Security considerations should be addressed at each step
 - Performance benchmarks should be established early
@@ -92,4 +92,4 @@
 - Mobile API considerations
 - Analytics integration
 
-*Remember: Follow the implementation guidelines in architecture.md for all new development.* 
+*Remember: Follow the DTI methodology in methodology.md for all new development.* 

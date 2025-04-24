@@ -2,7 +2,7 @@
 
 ## Development Flow
 1. Define interfaces and types first (signatures/contracts only)
-2. Write comprehensive behavior tests that define expected outcomes
+2. Test behavior comprehensively to articulate expected outcomes
 3. Implement only after corresponding tests are written
 4. Optimize for performance once tests pass
 
@@ -10,7 +10,7 @@
 - No implementation without corresponding tests
 - Tests should describe behavior through clear naming
 - Each component requires comprehensive test coverage
-- Follow test-driven development (TDD) principles
+- Follow Define-Test-Implement (DTI) principles (see docs/methodology.md)
 
 ## Layers Overview
 - **Core**: Foundation layer handling core business logic and data management
@@ -70,6 +70,8 @@ src/
 ```
 
 ## Testing Strategy
+All tests are written during the Test phase of DTI.
+
 ### Unit Tests
 - Individual component behavior
 - Boundary conditions
@@ -136,6 +138,7 @@ src/
 - Performance considerations
 - Security measures
 - Deployment guidelines
+- Link back to methodology.md where relevant
 
 *Each component must have:*
 - Comprehensive test coverage
