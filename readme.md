@@ -1,4 +1,4 @@
-# Documentation Framework
+# Define-Test-Implement Documentation Toolkit
 
 [![CI Status](https://img.shields.io/badge/CI-coming_soon-lightgrey)](https://github.com/your-org/docs)
 [![Documentation](https://img.shields.io/badge/docs-MkDocs-blue)](https://your-org.github.io/docs)
@@ -7,7 +7,7 @@ A comprehensive documentation framework providing standards, templates, and guid
 
 ## 📚 Contents
 
-- [Documentation Framework](#documentation-framework)
+- [Define-Test-Implement Documentation Toolkit](#define-test-implement-documentation-toolkit)
   - [📚 Contents](#-contents)
   - [Overview](#overview)
   - [Directory Structure](#directory-structure)
